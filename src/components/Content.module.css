@@ -25,9 +25,9 @@
 }
 
 .cards {
-    padding-top: 40px;
+    margin-top: 10px;
     display: block;
-    height: 120px;
+    height: 150px;
     overflow-y: auto;
     padding:1rem;
 }
