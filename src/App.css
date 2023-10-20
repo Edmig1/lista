@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+:root{
+  --vermelho: #D02941;
+  --cinza: #F2F2F2;
+  --verde: #1BC200;
+  --cinzaTexto: #858585;
+}
+*{
+  font-family: 'Quicksand', sans-serif;
+}
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh
+}

@@ -1,0 +1,15 @@
+header{
+    height: 10vh;
+    background-color: var(--vermelho);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px;
+    color: white;
+}
+#carrinho{
+    font-size: 2em;
+}
+.titulo{
+    text-shadow: rgba(0, 0, 0, 0.47) 4px 4px 0px;
+}
